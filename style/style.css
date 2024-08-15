@@ -54,3 +54,43 @@ body{
     border-radius: 46px;
     border: none;
 }
+.btn2{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 16px 40px;
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 42px;
+    backdrop-filter: blur(20px);
+    background: rgba(48, 48, 48, 0.54);
+}
+#banner-image-card1{
+    width: 206px;
+    height: 96px;
+    position: absolute;
+    bottom: 60%;
+    left: 65%;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+    background: rgba(48, 48, 48, 0.54); 
+}
+#banner-image-card{
+    width: 206px;
+    height: 96px;
+    position: absolute;
+    bottom: 12%;
+    left: -30%;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+    background: rgba(48, 48, 48, 0.54);   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
