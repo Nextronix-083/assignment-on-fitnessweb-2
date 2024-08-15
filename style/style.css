@@ -25,3 +25,32 @@ body{
     margin: 0;
     line-height: 0.7;
 }
+.banner-description{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1rem;
+    font-weight: 400;
+    width: 520px;
+    height: 48px;
+}
+.banner-image{
+    position: relative;
+}
+.card{
+    color: white;
+    background-color: red;
+}
+.btn{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    background-color: #E6533C;
+    border-radius: 46px;
+    border: none;
+    padding: 16px 40px;
+}
+.btn1{
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 46px;
+    border: none;
+}
